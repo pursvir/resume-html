@@ -1,0 +1,86 @@
+body {
+    background-color: #242424;
+    font-family: monospace;
+    color: white;
+}
+
+a:link {
+    color: lightgreen;
+    text-decoration: none;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+}
+
+ul {
+    font-size: 15px;
+}
+
+ol {
+    font-size: 15px;
+}
+
+section {
+    margin-left: 1%;
+}
+
+#top-bar {
+    padding: 0.5% 0.5% 0.5% 2%;
+    background-color: #333;
+    border: none;
+    width: 100%;
+}
+
+#beginning {
+    text-align: center;
+    align-items: center;
+}
+
+#avatar {
+    display: block;
+    margin: 1% auto 0 auto; 
+    align-items: center;
+}
+
+
+.text-block {
+    align-items: center;
+    text-align: center;
+    border-style: dashed;
+    border-width: 2px;
+    margin: 16px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    display: block;
+}
+
+/*
+#cplusplus {
+    color: lightblue;
+}
+
+#qt {
+    color: lightgreen;
+}
+
+#csharp {
+    color: purple;
+}
+
+#python {
+    color: yellow;
+}
+*/
+
+#contacts-block {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#languages-block {
+    margin-left: 35%;
+    margin-right: 35%;
+}
